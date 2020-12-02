@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>周嘉的网站</title>
+        <link>https://www.jloveh.com/</link>
+        <description>周嘉的网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 02 Dec 2020 10:11:40 &#43;0800</lastBuildDate>
+            <atom:link href="https://www.jloveh.com/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
